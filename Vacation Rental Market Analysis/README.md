@@ -2,6 +2,9 @@
 
 ## Project Overview
 I completed a project analyzing the vacation rental market in Manhattan using Airbnb listing data. The goal was to identify property types with the best investment potential. I utilized advanced spreadsheet techniques to analyze pricing trends, property types, and occupancy rates, providing actionable insights to guide their investment strategy.   
+
+- Complete analysis <a href='https://docs.google.com/spreadsheets/d/1JtMe2x7qr-eZiJfRVHrfxedo8BCluoGDFj4jsdc80lI/edit?usp=sharing'><u>here</u></a> 
+- Find a video presentation of this project <a href='https://www.loom.com/share/8cb1240527c846ee821e3f6b6cb3c8cd?sid=fe086611-8497-4cc4-8f91-953e246e69d2' target=_blank><u>here</u></a>
  
 ![image](https://github.com/user-attachments/assets/d2772a48-bbff-4acf-81c8-8915315c30d0)
 
